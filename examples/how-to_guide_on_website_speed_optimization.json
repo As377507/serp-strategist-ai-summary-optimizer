@@ -1,0 +1,739 @@
+{
+  "entity_analysis": {
+    "entities": [
+      {
+        "label": "DATE",
+        "text": "2025"
+      },
+      {
+        "label": "DATE",
+        "text": "2025"
+      },
+      {
+        "label": "DATE",
+        "text": "2025"
+      },
+      {
+        "label": "ORG",
+        "text": "Google"
+      },
+      {
+        "label": "ORG",
+        "text": "AI"
+      },
+      {
+        "label": "GPE",
+        "text": "AI"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10"
+      },
+      {
+        "label": "TIME",
+        "text": "more than 3 seconds"
+      },
+      {
+        "label": "ORG",
+        "text": "Google"
+      },
+      {
+        "label": "ORG",
+        "text": "AI"
+      },
+      {
+        "label": "ORDINAL",
+        "text": "100ms"
+      },
+      {
+        "label": "PERCENT",
+        "text": "7%"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10"
+      },
+      {
+        "label": "ORG",
+        "text": "Proven Techniques"
+      },
+      {
+        "label": "PERSON",
+        "text": "Optimize Website Speed"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1"
+      },
+      {
+        "label": "ORG",
+        "text": "ImageOptim"
+      },
+      {
+        "label": "ORG",
+        "text": "JPEG"
+      },
+      {
+        "label": "ORG",
+        "text": "HTML"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "2"
+      },
+      {
+        "label": "PERSON",
+        "text": "Browser Caching"
+      },
+      {
+        "label": "PERSON",
+        "text": "IfModule mod_expires.c>"
+      },
+      {
+        "label": "ORG",
+        "text": "ExpiresByType"
+      },
+      {
+        "label": "DATE",
+        "text": "1 year"
+      },
+      {
+        "label": "ORG",
+        "text": "ExpiresByType"
+      },
+      {
+        "label": "DATE",
+        "text": "1 year"
+      },
+      {
+        "label": "ORG",
+        "text": "ExpiresByType"
+      },
+      {
+        "label": "DATE",
+        "text": "1 year"
+      },
+      {
+        "label": "ORG",
+        "text": "ExpiresByType"
+      },
+      {
+        "label": "DATE",
+        "text": "1 year"
+      },
+      {
+        "label": "ORG",
+        "text": "ExpiresByType"
+      },
+      {
+        "label": "DATE",
+        "text": "1 month"
+      },
+      {
+        "label": "ORG",
+        "text": "ExpiresByType"
+      },
+      {
+        "label": "DATE",
+        "text": "1 month"
+      },
+      {
+        "label": "ORG",
+        "text": "ExpiresByType"
+      },
+      {
+        "label": "DATE",
+        "text": "1 month"
+      },
+      {
+        "label": "ORG",
+        "text": "ExpiresByType"
+      },
+      {
+        "label": "DATE",
+        "text": "1 month"
+      },
+      {
+        "label": "ORG",
+        "text": "ExpiresByType"
+      },
+      {
+        "label": "DATE",
+        "text": "1 month"
+      },
+      {
+        "label": "ORG",
+        "text": "ExpiresByType"
+      },
+      {
+        "label": "DATE",
+        "text": "1 month"
+      },
+      {
+        "label": "ORG",
+        "text": "ExpiresByType"
+      },
+      {
+        "label": "DATE",
+        "text": "1 year"
+      },
+      {
+        "label": "ORG",
+        "text": "ExpiresDefault"
+      },
+      {
+        "label": "DATE",
+        "text": "2 days"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "3"
+      },
+      {
+        "label": "PERSON",
+        "text": "Minify CSS"
+      },
+      {
+        "label": "ORG",
+        "text": "JavaScript"
+      },
+      {
+        "label": "ORG",
+        "text": "HTML\nMinification"
+      },
+      {
+        "label": "PERSON",
+        "text": "Terser"
+      },
+      {
+        "label": "ORG",
+        "text": "CSS"
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Webpack or Parcel\n\n4"
+      },
+      {
+        "label": "ORG",
+        "text": "Content Delivery Networks"
+      },
+      {
+        "label": "NORP",
+        "text": "Popular"
+      },
+      {
+        "label": "ORG",
+        "text": "CDN"
+      },
+      {
+        "label": "ORG",
+        "text": "Cloudflare"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5"
+      },
+      {
+        "label": "ORG",
+        "text": "HTML"
+      },
+      {
+        "label": "ORG",
+        "text": "CSS"
+      },
+      {
+        "label": "ORG",
+        "text": "JavaScript"
+      },
+      {
+        "label": "PERCENT",
+        "text": "up to 70%"
+      },
+      {
+        "label": "PERSON",
+        "text": "IfModule"
+      },
+      {
+        "label": "PERSON",
+        "text": "Compress HTML"
+      },
+      {
+        "label": "ORG",
+        "text": "CSS"
+      },
+      {
+        "label": "ORG",
+        "text": "JavaScript"
+      },
+      {
+        "label": "ORG",
+        "text": "XML"
+      },
+      {
+        "label": "GPE",
+        "text": "xhtml+xml"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "6"
+      },
+      {
+        "label": "PERSON",
+        "text": "Reduce Server Response Time"
+      },
+      {
+        "label": "ORG",
+        "text": "DNS"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "7"
+      },
+      {
+        "label": "ORG",
+        "text": "Render-Blocking Resources\nRender"
+      },
+      {
+        "label": "ORG",
+        "text": "CSS"
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Deferring"
+      },
+      {
+        "label": "PRODUCT",
+        "text": "JavaScript"
+      },
+      {
+        "label": "NORP",
+        "text": "Inline"
+      },
+      {
+        "label": "ORG",
+        "text": "CSS"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "8"
+      },
+      {
+        "label": "PERSON",
+        "text": "Subset"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "9"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10"
+      },
+      {
+        "label": "ORG",
+        "text": "Google"
+      },
+      {
+        "label": "ORG",
+        "text": "LCP"
+      },
+      {
+        "label": "TIME",
+        "text": "under 2.5 seconds"
+      },
+      {
+        "label": "ORG",
+        "text": "First Input Delay"
+      },
+      {
+        "label": "PERSON",
+        "text": "Cumulative Layout Shift"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "0.1"
+      },
+      {
+        "label": "ORG",
+        "text": "Google PageSpeed Insights"
+      },
+      {
+        "label": "ORG",
+        "text": "Lighthouse"
+      },
+      {
+        "label": "PERSON",
+        "text": "Chrome User Experience Report"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "one"
+      },
+      {
+        "label": "GPE",
+        "text": "GTmetrix"
+      },
+      {
+        "label": "ORG",
+        "text": "Lighthouse"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "ten"
+      },
+      {
+        "label": "GPE",
+        "text": "AI"
+      },
+      {
+        "label": "GPE",
+        "text": "AI"
+      },
+      {
+        "label": "DATE",
+        "text": "2025"
+      },
+      {
+        "label": "DATE",
+        "text": "2025"
+      },
+      {
+        "label": "TIME",
+        "text": "under 2 seconds"
+      },
+      {
+        "label": "TIME",
+        "text": "1 second"
+      },
+      {
+        "label": "GPE",
+        "text": "AI"
+      },
+      {
+        "label": "ORG",
+        "text": "Google"
+      }
+    ],
+    "entity_density": 12.68,
+    "relationships": [
+      "'AI' (ORG) is mentioned with 'Optimize Website Speed' (PERSON)",
+      "'LCP' (ORG) is mentioned with 'Cumulative Layout Shift' (PERSON)",
+      "'Minify CSS' (PERSON) is mentioned with 'JavaScript' (ORG)",
+      "'Google' (ORG) is mentioned with 'Optimize Website Speed' (PERSON)",
+      "'JavaScript' (ORG) is mentioned with 'Terser' (PERSON)",
+      "'Compress HTML' (PERSON) is mentioned with 'JavaScript' (ORG)",
+      "'CSS' (ORG) is mentioned with 'Compress HTML' (PERSON)",
+      "'AI' (ORG) is mentioned with 'AI' (GPE)",
+      "'Lighthouse' (ORG) is mentioned with 'Chrome User Experience Report' (PERSON)",
+      "'JavaScript' (ORG) is mentioned with 'HTML\nMinification' (ORG)",
+      "'First Input Delay' (ORG) is mentioned with 'Cumulative Layout Shift' (PERSON)",
+      "'ImageOptim' (ORG) is mentioned with 'HTML' (ORG)",
+      "'HTML' (ORG) is mentioned with 'XML' (ORG)",
+      "'AI' (GPE) is mentioned with 'AI' (GPE)",
+      "'First Input Delay' (ORG) is mentioned with 'Lighthouse' (ORG)",
+      "'HTML\nMinification' (ORG) is mentioned with 'CSS' (ORG)",
+      "'Google PageSpeed Insights' (ORG) is mentioned with 'Chrome User Experience Report' (PERSON)",
+      "'IfModule' (PERSON) is mentioned with 'CSS' (ORG)",
+      "'Google' (ORG) is mentioned with 'LCP' (ORG)",
+      "'CSS' (ORG) is mentioned with 'CSS' (ORG)",
+      "'ImageOptim' (ORG) is mentioned with 'JPEG' (ORG)",
+      "'IfModule mod_expires.c>' (PERSON) is mentioned with 'ExpiresByType' (ORG)",
+      "'IfModule' (PERSON) is mentioned with 'XML' (ORG)",
+      "'Google' (ORG) is mentioned with 'First Input Delay' (ORG)",
+      "'Compress HTML' (PERSON) is mentioned with 'CSS' (ORG)",
+      "'HTML\nMinification' (ORG) is mentioned with 'Terser' (PERSON)",
+      "'Terser' (PERSON) is mentioned with 'CSS' (ORG)",
+      "'JavaScript' (ORG) is mentioned with 'JavaScript' (ORG)",
+      "'JavaScript' (ORG) is mentioned with 'CSS' (ORG)",
+      "'Cumulative Layout Shift' (PERSON) is mentioned with 'Lighthouse' (ORG)",
+      "'Minify CSS' (PERSON) is mentioned with 'HTML\nMinification' (ORG)",
+      "'Minify CSS' (PERSON) is mentioned with 'CSS' (ORG)",
+      "'Proven Techniques' (ORG) is mentioned with 'Optimize Website Speed' (PERSON)",
+      "'Cumulative Layout Shift' (PERSON) is mentioned with 'Google PageSpeed Insights' (ORG)",
+      "'Google' (ORG) is mentioned with 'AI' (ORG)",
+      "'IfModule' (PERSON) is mentioned with 'Compress HTML' (PERSON)",
+      "'AI' (ORG) is mentioned with 'Proven Techniques' (ORG)",
+      "'JPEG' (ORG) is mentioned with 'HTML' (ORG)",
+      "'Google' (ORG) is mentioned with 'Google PageSpeed Insights' (ORG)",
+      "'HTML' (ORG) is mentioned with 'IfModule' (PERSON)",
+      "'Google' (ORG) is mentioned with 'Cumulative Layout Shift' (PERSON)",
+      "'LCP' (ORG) is mentioned with 'First Input Delay' (ORG)",
+      "'IfModule mod_expires.c>' (PERSON) is mentioned with 'ExpiresDefault' (ORG)",
+      "'LCP' (ORG) is mentioned with 'Google PageSpeed Insights' (ORG)",
+      "'Google' (ORG) is mentioned with 'Chrome User Experience Report' (PERSON)",
+      "'IfModule' (PERSON) is mentioned with 'JavaScript' (ORG)",
+      "'HTML' (ORG) is mentioned with 'CSS' (ORG)",
+      "'JavaScript' (ORG) is mentioned with 'IfModule' (PERSON)",
+      "'Google' (ORG) is mentioned with 'Proven Techniques' (ORG)",
+      "'First Input Delay' (ORG) is mentioned with 'Google PageSpeed Insights' (ORG)",
+      "'ExpiresByType' (ORG) is mentioned with 'ExpiresByType' (ORG)",
+      "'HTML' (ORG) is mentioned with 'JavaScript' (ORG)",
+      "'JavaScript' (ORG) is mentioned with 'XML' (ORG)",
+      "'JavaScript' (PRODUCT) is mentioned with 'CSS' (ORG)",
+      "'LCP' (ORG) is mentioned with 'Chrome User Experience Report' (PERSON)",
+      "'First Input Delay' (ORG) is mentioned with 'Chrome User Experience Report' (PERSON)",
+      "'Cumulative Layout Shift' (PERSON) is mentioned with 'Chrome User Experience Report' (PERSON)",
+      "'CSS' (ORG) is mentioned with 'XML' (ORG)",
+      "'LCP' (ORG) is mentioned with 'Lighthouse' (ORG)",
+      "'CSS' (ORG) is mentioned with 'IfModule' (PERSON)",
+      "'Minify CSS' (PERSON) is mentioned with 'Terser' (PERSON)",
+      "'HTML' (ORG) is mentioned with 'Compress HTML' (PERSON)",
+      "'CDN' (ORG) is mentioned with 'Cloudflare' (ORG)",
+      "'CSS' (ORG) is mentioned with 'JavaScript' (ORG)",
+      "'Google' (ORG) is mentioned with 'Lighthouse' (ORG)",
+      "'GTmetrix' (GPE) is mentioned with 'Lighthouse' (ORG)",
+      "'ExpiresByType' (ORG) is mentioned with 'ExpiresDefault' (ORG)",
+      "'CSS' (ORG) is mentioned with 'JavaScript' (PRODUCT)",
+      "'Google' (ORG) is mentioned with 'AI' (GPE)",
+      "'Google PageSpeed Insights' (ORG) is mentioned with 'Lighthouse' (ORG)",
+      "'JavaScript' (ORG) is mentioned with 'Compress HTML' (PERSON)",
+      "'Compress HTML' (PERSON) is mentioned with 'XML' (ORG)"
+    ]
+  },
+  "structure_analysis": {
+    "direct_answer_statements": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "How to Optimize Your Website Speed in 2025"
+      },
+      {
+        "level": 2,
+        "text": "Why Website Speed Matters"
+      },
+      {
+        "level": 2,
+        "text": "10 Proven Techniques to Optimize Website Speed"
+      },
+      {
+        "level": 2,
+        "text": "Conclusion"
+      },
+      {
+        "level": 2,
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "level": 3,
+        "text": "1. Optimize Images and Media"
+      },
+      {
+        "level": 3,
+        "text": "2. Implement Browser Caching"
+      },
+      {
+        "level": 3,
+        "text": "3. Minify CSS, JavaScript, and HTML"
+      },
+      {
+        "level": 3,
+        "text": "4. Use Content Delivery Networks (CDNs)"
+      },
+      {
+        "level": 3,
+        "text": "5. Enable GZIP Compression"
+      },
+      {
+        "level": 3,
+        "text": "6. Reduce Server Response Time"
+      },
+      {
+        "level": 3,
+        "text": "7. Eliminate Render-Blocking Resources"
+      },
+      {
+        "level": 3,
+        "text": "8. Optimize Web Fonts"
+      },
+      {
+        "level": 3,
+        "text": "9. Implement HTTP/2 or HTTP/3"
+      },
+      {
+        "level": 3,
+        "text": "10. Monitor and Optimize Core Web Vitals"
+      },
+      {
+        "level": 3,
+        "text": "What is a good page load time in 2025?"
+      },
+      {
+        "level": 3,
+        "text": "Do mobile and desktop speeds need to be the same?"
+      },
+      {
+        "level": 3,
+        "text": "How often should I check my website speed?"
+      }
+    ],
+    "lists": [
+      "Users abandon sites that take more than 3 seconds to load",
+      "Google uses page speed as a ranking factor",
+      "AI search summaries favor faster websites",
+      "Every 100ms delay can reduce conversion rates by 7%",
+      "Mobile users are particularly sensitive to slow-loading pages",
+      "Compress all images using tools like ImageOptim or TinyPNG",
+      "Use next-gen formats like WebP instead of JPEG or PNG",
+      "Implement lazy loading for images below the fold",
+      "Specify image dimensions in your HTML",
+      "Use tools like Terser for JavaScript",
+      "Use CSSNano or csso for CSS",
+      "Use HTMLMinifier for HTML",
+      "Consider using build tools like Webpack or Parcel",
+      "Cloudflare",
+      "Amazon CloudFront",
+      "Fastly",
+      "Akamai",
+      "Upgrading your hosting plan",
+      "Implementing server-side caching",
+      "Optimizing database queries",
+      "Using a faster DNS provider",
+      "Loading CSS asynchronously",
+      "Deferring non-critical JavaScript",
+      "Inline critical CSS",
+      "Using the preload attribute for important resources",
+      "Use system fonts when possible",
+      "Subset fonts to include only necessary characters",
+      "Use font-display: swap to prevent font blocking",
+      "Consider variable fonts for multiple weights",
+      "HTTP/2 supports multiplexing and server push",
+      "HTTP/3 uses QUIC protocol for even faster connections",
+      "Most modern hosting providers support HTTP/2",
+      "HTTP/3 requires specific server configurations",
+      "Largest Contentful Paint (LCP): under 2.5 seconds",
+      "First Input Delay (FID): under 100 milliseconds",
+      "Cumulative Layout Shift (CLS): under 0.1"
+    ],
+    "paragraphs": [
+      {
+        "length": 42,
+        "text": "Website speed is more critical than ever in 2025, with Google's AI search mode prioritizing fast-loading sites in both traditional and AI-generated results. This comprehensive guide will walk you through 10 proven techniques to optimize your website speed and improve user experience."
+      },
+      {
+        "length": 12,
+        "text": "Before diving into optimization techniques, let's understand why website speed is crucial:"
+      },
+      {
+        "length": 17,
+        "text": "Large, unoptimized images are often the biggest culprits in slow website performance. Here's how to fix them:"
+      },
+      {
+        "length": 14,
+        "text": "Browser caching stores webpage resources on local devices, reducing load times for returning visitors."
+      },
+      {
+        "length": 7,
+        "text": "Add the following to your .htaccess file:"
+      },
+      {
+        "length": 10,
+        "text": "Minification removes unnecessary characters from your code without changing functionality:"
+      },
+      {
+        "length": 14,
+        "text": "CDNs distribute your content across multiple geographically diverse servers, reducing latency for users worldwide."
+      },
+      {
+        "length": 4,
+        "text": "Popular CDN options include:"
+      },
+      {
+        "length": 17,
+        "text": "GZIP compression can reduce the size of your HTML, CSS, and JavaScript files by up to 70%."
+      },
+      {
+        "length": 6,
+        "text": "Add this to your .htaccess file:"
+      },
+      {
+        "length": 10,
+        "text": "Server response time should be under 200ms. Improve it by:"
+      },
+      {
+        "length": 11,
+        "text": "Render-blocking resources prevent a page from loading quickly. Address this by:"
+      },
+      {
+        "length": 12,
+        "text": "Web fonts can significantly slow down your website if not optimized properly:"
+      },
+      {
+        "length": 7,
+        "text": "Modern HTTP protocols offer significant performance improvements:"
+      },
+      {
+        "length": 10,
+        "text": "Google's Core Web Vitals are essential metrics for user experience:"
+      },
+      {
+        "length": 16,
+        "text": "Use tools like Google PageSpeed Insights, Lighthouse, and Chrome User Experience Report to monitor these metrics."
+      },
+      {
+        "length": 44,
+        "text": "Website speed optimization is not a one-time task but an ongoing process. Regularly test your website's performance using tools like GTmetrix, WebPageTest, and Lighthouse. Implement these ten techniques, and you'll see significant improvements in your website's loading time, user experience, and search engine rankings."
+      },
+      {
+        "length": 24,
+        "text": "Remember, in the age of AI search, speed isn't just about user experience\u2014it's about whether your content gets featured in AI summaries at all."
+      },
+      {
+        "length": 25,
+        "text": "In 2025, your website should load in under 2 seconds, with 1 second being the ideal target for optimal user experience and AI search visibility."
+      },
+      {
+        "length": 24,
+        "text": "While both should be fast, mobile optimization is even more critical as most users access content via mobile devices, and Google uses mobile-first indexing."
+      },
+      {
+        "length": 18,
+        "text": "Conduct a thorough speed audit at least once per month and after any significant website updates or changes."
+      }
+    ],
+    "question_answer_patterns": []
+  },
+  "summary_score": {
+    "ai_summary_score": 70,
+    "recommendations": [
+      "Recommendation: Integrate explicit question-answer patterns to signal direct information."
+    ],
+    "summary_worthy_sections": [
+      "Users abandon sites that take more than 3 seconds to load",
+      "Google uses page speed as a ranking factor",
+      "AI search summaries favor faster websites",
+      "Every 100ms delay can reduce conversion rates by 7%",
+      "Mobile users are particularly sensitive to slow-loading pages",
+      "Compress all images using tools like ImageOptim or TinyPNG",
+      "Use next-gen formats like WebP instead of JPEG or PNG",
+      "Implement lazy loading for images below the fold",
+      "Specify image dimensions in your HTML",
+      "Use tools like Terser for JavaScript",
+      "Use CSSNano or csso for CSS",
+      "Use HTMLMinifier for HTML",
+      "Consider using build tools like Webpack or Parcel",
+      "Cloudflare",
+      "Amazon CloudFront",
+      "Fastly",
+      "Akamai",
+      "Upgrading your hosting plan",
+      "Implementing server-side caching",
+      "Optimizing database queries",
+      "Using a faster DNS provider",
+      "Loading CSS asynchronously",
+      "Deferring non-critical JavaScript",
+      "Inline critical CSS",
+      "Using the preload attribute for important resources",
+      "Use system fonts when possible",
+      "Subset fonts to include only necessary characters",
+      "Use font-display: swap to prevent font blocking",
+      "Consider variable fonts for multiple weights",
+      "HTTP/2 supports multiplexing and server push",
+      "HTTP/3 uses QUIC protocol for even faster connections",
+      "Most modern hosting providers support HTTP/2",
+      "HTTP/3 requires specific server configurations",
+      "Largest Contentful Paint (LCP): under 2.5 seconds",
+      "First Input Delay (FID): under 100 milliseconds",
+      "Cumulative Layout Shift (CLS): under 0.1"
+    ]
+  }
+}

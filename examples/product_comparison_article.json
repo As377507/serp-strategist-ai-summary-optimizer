@@ -1,0 +1,759 @@
+{
+  "entity_analysis": {
+    "entities": [
+      {
+        "label": "DATE",
+        "text": "2025"
+      },
+      {
+        "label": "PERSON",
+        "text": "Frase"
+      },
+      {
+        "label": "PERSON",
+        "text": "Surfer SEO"
+      },
+      {
+        "label": "DATE",
+        "text": "2025"
+      },
+      {
+        "label": "PERSON",
+        "text": "Frase"
+      },
+      {
+        "label": "PERSON",
+        "text": "Surfer SEO"
+      },
+      {
+        "label": "ORG",
+        "text": "SEO"
+      },
+      {
+        "label": "ORG",
+        "text": "Google"
+      },
+      {
+        "label": "ORG",
+        "text": "AI"
+      },
+      {
+        "label": "ORG",
+        "text": "SEO"
+      },
+      {
+        "label": "PERSON",
+        "text": "Frase"
+      },
+      {
+        "label": "PERSON",
+        "text": "Surfer SEO"
+      },
+      {
+        "label": "PERSON",
+        "text": "Quick Summary"
+      },
+      {
+        "label": "MONEY",
+        "text": "29"
+      },
+      {
+        "label": "MONEY",
+        "text": "45"
+      },
+      {
+        "label": "MONEY",
+        "text": "59"
+      },
+      {
+        "label": "ORG",
+        "text": "Team Features"
+      },
+      {
+        "label": "ORG",
+        "text": "AI Summary Optimization\nAdvanced\nBasic\nLimited"
+      },
+      {
+        "label": "ORG",
+        "text": "Entity Optimization\nComprehensive\nBasic\nModerate\n\n\nBest For\nTeams &"
+      },
+      {
+        "label": "PERSON",
+        "text": "Detailed Comparison"
+      },
+      {
+        "label": "ORG",
+        "text": "Google"
+      },
+      {
+        "label": "ORG",
+        "text": "AI"
+      },
+      {
+        "label": "PERSON",
+        "text": "Key Strengths"
+      },
+      {
+        "label": "ORG",
+        "text": "Google"
+      },
+      {
+        "label": "GPE",
+        "text": "AI"
+      },
+      {
+        "label": "PERSON",
+        "text": "Knowledge Graph"
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Publishing Integration: Direct"
+      },
+      {
+        "label": "ORG",
+        "text": "WordPress"
+      },
+      {
+        "label": "ORG",
+        "text": "Webflow"
+      },
+      {
+        "label": "ORG",
+        "text": "HubSpot"
+      },
+      {
+        "label": "ORDINAL",
+        "text": "third"
+      },
+      {
+        "label": "MONEY",
+        "text": "29"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5"
+      },
+      {
+        "label": "MONEY",
+        "text": "59"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "3"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "20"
+      },
+      {
+        "label": "MONEY",
+        "text": "$99/month"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10"
+      },
+      {
+        "label": "GPE",
+        "text": "AI"
+      },
+      {
+        "label": "ORG",
+        "text": "Google"
+      },
+      {
+        "label": "ORG",
+        "text": "AI"
+      },
+      {
+        "label": "PERSON",
+        "text": "Key Strengths"
+      },
+      {
+        "label": "ORG",
+        "text": "Question Research:"
+      },
+      {
+        "label": "GPE",
+        "text": "AI"
+      },
+      {
+        "label": "MONEY",
+        "text": "45"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4"
+      },
+      {
+        "label": "MONEY",
+        "text": "60"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "30"
+      },
+      {
+        "label": "MONEY",
+        "text": "120"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "3"
+      },
+      {
+        "label": "ORG",
+        "text": "AI"
+      },
+      {
+        "label": "PERSON",
+        "text": "Key Strengths"
+      },
+      {
+        "label": "PERSON",
+        "text": "Analyzer"
+      },
+      {
+        "label": "ORG",
+        "text": "Keyword Research: Built"
+      },
+      {
+        "label": "ORG",
+        "text": "Content Planner"
+      },
+      {
+        "label": "ORG",
+        "text": "Limited AI"
+      },
+      {
+        "label": "NORP",
+        "text": "Complex"
+      },
+      {
+        "label": "MONEY",
+        "text": "59"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "1"
+      },
+      {
+        "label": "PERSON",
+        "text": "Max"
+      },
+      {
+        "label": "MONEY",
+        "text": "239"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "9/10"
+      },
+      {
+        "label": "ORG",
+        "text": "AI"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "6/10"
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Surfer SEO"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5/10"
+      },
+      {
+        "label": "ORG",
+        "text": "Team Collaboration\nSERP Strategist"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "10/10 - Real"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5/10"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "4/10"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "8/10"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "8/10"
+      },
+      {
+        "label": "GPE",
+        "text": "AI"
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Surfer SEO"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "9/10"
+      },
+      {
+        "label": "ORG",
+        "text": "Pricing & Value\nSERP Strategist"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "9/10"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "6/10"
+      },
+      {
+        "label": "WORK_OF_ART",
+        "text": "Surfer SEO"
+      },
+      {
+        "label": "CARDINAL",
+        "text": "5/10"
+      },
+      {
+        "label": "ORG",
+        "text": "AI"
+      },
+      {
+        "label": "ORG",
+        "text": "Content"
+      },
+      {
+        "label": "GPE",
+        "text": "AI"
+      },
+      {
+        "label": "ORG",
+        "text": "SEO"
+      },
+      {
+        "label": "ORG",
+        "text": "Budget"
+      },
+      {
+        "label": "GPE",
+        "text": "AI"
+      },
+      {
+        "label": "GPE",
+        "text": "AI"
+      },
+      {
+        "label": "PERSON",
+        "text": "Surfer SEO"
+      },
+      {
+        "label": "ORG",
+        "text": "Google"
+      },
+      {
+        "label": "ORG",
+        "text": "AI"
+      }
+    ],
+    "entity_density": 12.31,
+    "relationships": [
+      "'Knowledge Graph' (PERSON) is mentioned with 'WordPress' (ORG)",
+      "'Surfer SEO' (PERSON) is mentioned with 'AI' (ORG)",
+      "'Entity Optimization\nComprehensive\nBasic\nModerate\n\n\nBest For\nTeams &' (ORG) is mentioned with 'AI' (ORG)",
+      "'Team Features' (ORG) is mentioned with 'Entity Optimization\nComprehensive\nBasic\nModerate\n\n\nBest For\nTeams &' (ORG)",
+      "'Surfer SEO' (PERSON) is mentioned with 'SEO' (ORG)",
+      "'Key Strengths' (PERSON) is mentioned with 'AI' (GPE)",
+      "'AI Summary Optimization\nAdvanced\nBasic\nLimited' (ORG) is mentioned with 'Google' (ORG)",
+      "'WordPress' (ORG) is mentioned with 'Webflow' (ORG)",
+      "'AI' (GPE) is mentioned with 'SEO' (ORG)",
+      "'Key Strengths' (PERSON) is mentioned with 'Webflow' (ORG)",
+      "'SEO' (ORG) is mentioned with 'AI' (GPE)",
+      "'Frase' (PERSON) is mentioned with 'Surfer SEO' (PERSON)",
+      "'Content Planner' (ORG) is mentioned with 'Limited AI' (ORG)",
+      "'AI' (GPE) is mentioned with 'Pricing & Value\nSERP Strategist' (ORG)",
+      "'AI' (GPE) is mentioned with 'WordPress' (ORG)",
+      "'Key Strengths' (PERSON) is mentioned with 'Google' (ORG)",
+      "'SEO' (ORG) is mentioned with 'Frase' (PERSON)",
+      "'Surfer SEO' (PERSON) is mentioned with 'Surfer SEO' (PERSON)",
+      "'Knowledge Graph' (PERSON) is mentioned with 'HubSpot' (ORG)",
+      "'Frase' (PERSON) is mentioned with 'AI' (ORG)",
+      "'AI' (GPE) is mentioned with 'AI' (GPE)",
+      "'Knowledge Graph' (PERSON) is mentioned with 'Webflow' (ORG)",
+      "'Keyword Research: Built' (ORG) is mentioned with 'Content Planner' (ORG)",
+      "'AI' (GPE) is mentioned with 'Knowledge Graph' (PERSON)",
+      "'AI' (GPE) is mentioned with 'AI' (ORG)",
+      "'Google' (ORG) is mentioned with 'WordPress' (ORG)",
+      "'Frase' (PERSON) is mentioned with 'SEO' (ORG)",
+      "'Google' (ORG) is mentioned with 'Knowledge Graph' (PERSON)",
+      "'AI' (ORG) is mentioned with 'Team Collaboration\nSERP Strategist' (ORG)",
+      "'Google' (ORG) is mentioned with 'HubSpot' (ORG)",
+      "'Key Strengths' (PERSON) is mentioned with 'HubSpot' (ORG)",
+      "'Quick Summary' (PERSON) is mentioned with 'AI Summary Optimization\nAdvanced\nBasic\nLimited' (ORG)",
+      "'Content' (ORG) is mentioned with 'AI' (GPE)",
+      "'SEO' (ORG) is mentioned with 'Google' (ORG)",
+      "'SEO' (ORG) is mentioned with 'AI' (ORG)",
+      "'Quick Summary' (PERSON) is mentioned with 'Entity Optimization\nComprehensive\nBasic\nModerate\n\n\nBest For\nTeams &' (ORG)",
+      "'Quick Summary' (PERSON) is mentioned with 'AI' (ORG)",
+      "'Team Features' (ORG) is mentioned with 'AI Summary Optimization\nAdvanced\nBasic\nLimited' (ORG)",
+      "'Entity Optimization\nComprehensive\nBasic\nModerate\n\n\nBest For\nTeams &' (ORG) is mentioned with 'Detailed Comparison' (PERSON)",
+      "'Entity Optimization\nComprehensive\nBasic\nModerate\n\n\nBest For\nTeams &' (ORG) is mentioned with 'Google' (ORG)",
+      "'Content' (ORG) is mentioned with 'SEO' (ORG)",
+      "'AI Summary Optimization\nAdvanced\nBasic\nLimited' (ORG) is mentioned with 'AI' (ORG)",
+      "'SEO' (ORG) is mentioned with 'Budget' (ORG)",
+      "'Surfer SEO' (PERSON) is mentioned with 'Google' (ORG)",
+      "'Surfer SEO' (PERSON) is mentioned with 'Frase' (PERSON)",
+      "'AI Summary Optimization\nAdvanced\nBasic\nLimited' (ORG) is mentioned with 'Entity Optimization\nComprehensive\nBasic\nModerate\n\n\nBest For\nTeams &' (ORG)",
+      "'AI' (GPE) is mentioned with 'Budget' (ORG)",
+      "'Google' (ORG) is mentioned with 'AI' (ORG)",
+      "'Quick Summary' (PERSON) is mentioned with 'Detailed Comparison' (PERSON)",
+      "'SEO' (ORG) is mentioned with 'Surfer SEO' (PERSON)",
+      "'Detailed Comparison' (PERSON) is mentioned with 'AI' (ORG)",
+      "'Key Strengths' (PERSON) is mentioned with 'WordPress' (ORG)",
+      "'Key Strengths' (PERSON) is mentioned with 'Question Research:' (ORG)",
+      "'Frase' (PERSON) is mentioned with 'Frase' (PERSON)",
+      "'Analyzer' (PERSON) is mentioned with 'Content Planner' (ORG)",
+      "'Quick Summary' (PERSON) is mentioned with 'Google' (ORG)",
+      "'Frase' (PERSON) is mentioned with 'Google' (ORG)",
+      "'Budget' (ORG) is mentioned with 'AI' (GPE)",
+      "'AI Summary Optimization\nAdvanced\nBasic\nLimited' (ORG) is mentioned with 'Detailed Comparison' (PERSON)",
+      "'Key Strengths' (PERSON) is mentioned with 'Knowledge Graph' (PERSON)",
+      "'AI' (GPE) is mentioned with 'Google' (ORG)",
+      "'Analyzer' (PERSON) is mentioned with 'Keyword Research: Built' (ORG)",
+      "'Content' (ORG) is mentioned with 'Budget' (ORG)",
+      "'Keyword Research: Built' (ORG) is mentioned with 'Limited AI' (ORG)",
+      "'AI' (GPE) is mentioned with 'HubSpot' (ORG)",
+      "'Team Features' (ORG) is mentioned with 'AI' (ORG)",
+      "'Analyzer' (PERSON) is mentioned with 'Limited AI' (ORG)",
+      "'Google' (ORG) is mentioned with 'Webflow' (ORG)",
+      "'WordPress' (ORG) is mentioned with 'HubSpot' (ORG)",
+      "'AI' (GPE) is mentioned with 'Webflow' (ORG)",
+      "'Google' (ORG) is mentioned with 'AI' (GPE)",
+      "'Webflow' (ORG) is mentioned with 'HubSpot' (ORG)",
+      "'Detailed Comparison' (PERSON) is mentioned with 'Google' (ORG)",
+      "'Team Features' (ORG) is mentioned with 'Google' (ORG)",
+      "'Quick Summary' (PERSON) is mentioned with 'Team Features' (ORG)",
+      "'Team Features' (ORG) is mentioned with 'Detailed Comparison' (PERSON)"
+    ]
+  },
+  "structure_analysis": {
+    "direct_answer_statements": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "2025 SEO Tools Comparison: SERP Strategist vs. Frase vs. Surfer SEO"
+      },
+      {
+        "level": 2,
+        "text": "Quick Summary"
+      },
+      {
+        "level": 2,
+        "text": "Detailed Comparison"
+      },
+      {
+        "level": 2,
+        "text": "Feature-by-Feature Comparison"
+      },
+      {
+        "level": 2,
+        "text": "Who Should Use Each Tool?"
+      },
+      {
+        "level": 2,
+        "text": "Conclusion"
+      },
+      {
+        "level": 3,
+        "text": "SERP Strategist"
+      },
+      {
+        "level": 3,
+        "text": "Frase"
+      },
+      {
+        "level": 3,
+        "text": "Surfer SEO"
+      },
+      {
+        "level": 3,
+        "text": "AI Summary Optimization"
+      },
+      {
+        "level": 3,
+        "text": "Team Collaboration"
+      },
+      {
+        "level": 3,
+        "text": "Content Editor"
+      },
+      {
+        "level": 3,
+        "text": "Pricing & Value"
+      },
+      {
+        "level": 3,
+        "text": "Choose SERP Strategist if:"
+      },
+      {
+        "level": 3,
+        "text": "Choose Frase if:"
+      },
+      {
+        "level": 3,
+        "text": "Choose Surfer SEO if:"
+      },
+      {
+        "level": 4,
+        "text": "Key Strengths:"
+      },
+      {
+        "level": 4,
+        "text": "Limitations:"
+      },
+      {
+        "level": 4,
+        "text": "Pricing:"
+      },
+      {
+        "level": 4,
+        "text": "Key Strengths:"
+      },
+      {
+        "level": 4,
+        "text": "Limitations:"
+      },
+      {
+        "level": 4,
+        "text": "Pricing:"
+      },
+      {
+        "level": 4,
+        "text": "Key Strengths:"
+      },
+      {
+        "level": 4,
+        "text": "Limitations:"
+      },
+      {
+        "level": 4,
+        "text": "Pricing:"
+      }
+    ],
+    "lists": [
+      "AI Summary Optimization:Proprietary algorithms specifically designed to increase content visibility in Google's AI summaries",
+      "Team Collaboration:Real-time collaborative editing, team workspaces, and role-based permissions included in all plans",
+      "Entity Optimization:Advanced entity recognition and Knowledge Graph integration",
+      "Pricing:Most affordable option with team features included in all tiers",
+      "Publishing Integration:Direct publishing to WordPress, Webflow, HubSpot, and more",
+      "Newer platform with fewer third-party integrations",
+      "Less extensive historical data compared to older competitors",
+      "Advanced features may have steeper learning curve for beginners",
+      "Starter: $29/month (1 user, 5 projects)",
+      "Pro: $59/month (3 users, 20 projects)",
+      "Agency: $99/month (10 users, unlimited projects)",
+      "Content Briefs:Comprehensive automated content briefs",
+      "Question Research:Excellent identification of related questions",
+      "AI Writing:Built-in AI writing assistant",
+      "User Interface:Clean, intuitive interface",
+      "SERP Analysis:Detailed SERP analysis for traditional search",
+      "Limited team collaboration features",
+      "Basic AI summary optimization capabilities",
+      "No entity optimization features",
+      "Higher pricing for team access",
+      "Limited publishing integrations",
+      "Solo: $45/month (1 user, 4 projects)",
+      "Basic: $60/month (1 user, 30 projects)",
+      "Team: $120/month (3 users, unlimited projects)",
+      "Content Editor:Detailed content optimization guidelines",
+      "SERP Analyzer:Comprehensive SERP correlation data",
+      "Keyword Research:Built-in keyword research tool",
+      "Content Planner:Automated content planning",
+      "Audit Tool:Detailed website auditing capabilities",
+      "Expensive for teams and agencies",
+      "Limited AI summary optimization features",
+      "No real-time collaboration",
+      "Complex pricing with many add-ons",
+      "Steeper learning curve",
+      "Essential: $59/month (1 user, limited features)",
+      "Advanced: $119/month (1 user, full features)",
+      "Max: $239/month (5 users, all features)",
+      "You work in a team or agency environment",
+      "AI search optimization is a priority",
+      "You need collaborative content creation",
+      "You want the best value for team features",
+      "Entity optimization is important to your strategy",
+      "You're an individual content creator",
+      "Content briefs are your primary need",
+      "You want built-in AI writing capabilities",
+      "Question research is central to your strategy",
+      "You prefer a simpler, more intuitive interface",
+      "You're focused on traditional SEO factors",
+      "You need detailed on-page optimization",
+      "Budget isn't a primary concern",
+      "You want comprehensive website auditing",
+      "You need built-in keyword research"
+    ],
+    "paragraphs": [
+      {
+        "length": 48,
+        "text": "The SEO landscape has dramatically shifted with Google's AI search mode becoming the default experience for most users. This comprehensive comparison examines how the leading SEO tools\u2014SERP Strategist, Frase, and Surfer SEO\u2014have adapted to this new reality and which offers the best value for different types of users."
+      },
+      {
+        "length": 21,
+        "text": "SERP Strategist has emerged as the leading AI-first SEO platform, specifically designed to help businesses optimize for Google's AI search mode."
+      },
+      {
+        "length": 20,
+        "text": "Frase was an early pioneer in AI content optimization but has been slower to adapt to Google's AI search mode."
+      },
+      {
+        "length": 17,
+        "text": "Surfer SEO has traditionally focused on on-page optimization factors but has recently added some AI search features."
+      },
+      {
+        "length": 15,
+        "text": "SERP Strategist:9/10 - Purpose-built for AI search with entity optimization, structure analysis, and summary monitoring"
+      },
+      {
+        "length": 13,
+        "text": "Frase:6/10 - Basic AI optimization with some structure recommendations but limited entity support"
+      },
+      {
+        "length": 15,
+        "text": "Surfer SEO:5/10 - Recently added AI features but still primarily focused on traditional ranking factors"
+      },
+      {
+        "length": 11,
+        "text": "SERP Strategist:10/10 - Real-time collaboration, team workspaces, comments, and role-based permissions"
+      },
+      {
+        "length": 12,
+        "text": "Frase:5/10 - Basic sharing but no real-time collaboration or comprehensive team features"
+      },
+      {
+        "length": 11,
+        "text": "Surfer SEO:4/10 - Limited to account sharing without true collaboration features"
+      },
+      {
+        "length": 9,
+        "text": "SERP Strategist:8/10 - Collaborative editor with real-time AI recommendations"
+      },
+      {
+        "length": 9,
+        "text": "Frase:8/10 - Robust editor with good AI writing support"
+      },
+      {
+        "length": 9,
+        "text": "Surfer SEO:9/10 - Comprehensive editor with detailed optimization guidelines"
+      },
+      {
+        "length": 12,
+        "text": "SERP Strategist:9/10 - Most affordable with team features included in all plans"
+      },
+      {
+        "length": 10,
+        "text": "Frase:6/10 - Moderate pricing for individuals but expensive for teams"
+      },
+      {
+        "length": 10,
+        "text": "Surfer SEO:5/10 - Expensive with many features requiring additional payment"
+      },
+      {
+        "length": 53,
+        "text": "In the new era of AI search, SERP Strategist emerges as the clear leader for teams and agencies, offering purpose-built AI optimization features at the most affordable price point. Frase remains a solid choice for individual content creators, while Surfer SEO continues to excel for traditional on-page optimization despite its higher price tag."
+      },
+      {
+        "length": 35,
+        "text": "The right choice ultimately depends on your specific needs, team size, and budget. For most organizations adapting to Google's AI search mode, SERP Strategist offers the most comprehensive solution with the best value for teams."
+      }
+    ],
+    "question_answer_patterns": []
+  },
+  "summary_score": {
+    "ai_summary_score": 70,
+    "recommendations": [
+      "Recommendation: Integrate explicit question-answer patterns to signal direct information."
+    ],
+    "summary_worthy_sections": [
+      "AI Summary Optimization:Proprietary algorithms specifically designed to increase content visibility in Google's AI summaries",
+      "Team Collaboration:Real-time collaborative editing, team workspaces, and role-based permissions included in all plans",
+      "Entity Optimization:Advanced entity recognition and Knowledge Graph integration",
+      "Pricing:Most affordable option with team features included in all tiers",
+      "Publishing Integration:Direct publishing to WordPress, Webflow, HubSpot, and more",
+      "Newer platform with fewer third-party integrations",
+      "Less extensive historical data compared to older competitors",
+      "Advanced features may have steeper learning curve for beginners",
+      "Starter: $29/month (1 user, 5 projects)",
+      "Pro: $59/month (3 users, 20 projects)",
+      "Agency: $99/month (10 users, unlimited projects)",
+      "Content Briefs:Comprehensive automated content briefs",
+      "Question Research:Excellent identification of related questions",
+      "AI Writing:Built-in AI writing assistant",
+      "User Interface:Clean, intuitive interface",
+      "SERP Analysis:Detailed SERP analysis for traditional search",
+      "Limited team collaboration features",
+      "Basic AI summary optimization capabilities",
+      "No entity optimization features",
+      "Higher pricing for team access",
+      "Limited publishing integrations",
+      "Solo: $45/month (1 user, 4 projects)",
+      "Basic: $60/month (1 user, 30 projects)",
+      "Team: $120/month (3 users, unlimited projects)",
+      "Content Editor:Detailed content optimization guidelines",
+      "SERP Analyzer:Comprehensive SERP correlation data",
+      "Keyword Research:Built-in keyword research tool",
+      "Content Planner:Automated content planning",
+      "Audit Tool:Detailed website auditing capabilities",
+      "Expensive for teams and agencies",
+      "Limited AI summary optimization features",
+      "No real-time collaboration",
+      "Complex pricing with many add-ons",
+      "Steeper learning curve",
+      "Essential: $59/month (1 user, limited features)",
+      "Advanced: $119/month (1 user, full features)",
+      "Max: $239/month (5 users, all features)",
+      "You work in a team or agency environment",
+      "AI search optimization is a priority",
+      "You need collaborative content creation",
+      "You want the best value for team features",
+      "Entity optimization is important to your strategy",
+      "You're an individual content creator",
+      "Content briefs are your primary need",
+      "You want built-in AI writing capabilities",
+      "Question research is central to your strategy",
+      "You prefer a simpler, more intuitive interface",
+      "You're focused on traditional SEO factors",
+      "You need detailed on-page optimization",
+      "Budget isn't a primary concern",
+      "You want comprehensive website auditing",
+      "You need built-in keyword research"
+    ]
+  }
+}
