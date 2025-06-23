@@ -26,7 +26,7 @@ With the rise of AI-powered search engines (like Google SGE and Bing Copilot), c
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/serp-strategist-ai-summary-optimizer.git
+git clone https://github.com/As377507/serp-strategist-ai-summary-optimizer.git
 cd serp-strategist-ai-summary-optimizer
 ```
 
