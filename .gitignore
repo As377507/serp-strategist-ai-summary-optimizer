@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+venv/
+env/
+ENV/
+.venv/
+.Python
+pip-log.txt
+
+# Jupyter Notebook checkpoints (if you use Jupyter)
+.ipynb_checkpoints/
+
+# VS Code settings (optional)
+.vscode/
+
+# PyCharm settings (optional)
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# Cache files
+*.log
+*.tmp
+.cache/
+*.sqlite3
+
+# API keys or secrets
+*.env
+*.key
+gcloud_key.json
+
+# Data files
+examples/*.json
+visuals/*.png
+
+# Unit test output
+*.coverage
+coverage.xml
+htmlcov/
+
+# Benchmarks or intermediate files
+benchmark_sample_*.json
+
+# Don't track these README backups
+README_backup.md
