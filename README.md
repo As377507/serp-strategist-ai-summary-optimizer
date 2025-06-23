@@ -201,6 +201,18 @@ This project is modularly divided into:
 
 ---
 
+## 🛠️ Challenges Faced During Development
+
+- ❗ Getting `serp_analyzer` imports to work in different environments (Colab, Windows)
+- ⌛ Processing large HTML content caused spaCy to slow down → solved with chunking 
+- 📦 Entity co-occurrence was hard to tune meaningfully without dependency parsing
+- 🔍 Markdown handling needed consistent pre-conversion to HTML before parsing
+- 🧪 API testing Issues we faced during Development
+- 🧪 Some unit tests initially failed due to minor Markdown parsing quirks (e.g. missing heading hashes)
+- 📤 GitHub push conflict (remote README mismatch) → resolved with force push or pull merge
+
+---
+
 ## 👨‍💻 Author
 
 **Akash Sen**  
