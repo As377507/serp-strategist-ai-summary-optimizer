@@ -1,4 +1,4 @@
-# SERP Strategist - AI Content Analyzer
+# SERP Strategist - AI Content Structure Analyzer
 
 This project analyzes HTML or Markdown content to evaluate its readiness for inclusion in Google's AI-generated summaries using content structure, entity density, and NLP heuristics.
 
